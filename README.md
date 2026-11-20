@@ -20,8 +20,6 @@
 
 - 🎓 B.Tech Computer Science student at IIITDM Kurnool.
 - 💻 Interested in Software Development, Artificial Intelligence and Machine Learning.
-- 🧠 Solved 300+ problems on LeetCode.
-- 🚀 Machine Learning Intern at Geonixa.
 - 🔍 Interested in building practical applications and exploring new technologies.
 
 ## 🛠️ Technical Skills
