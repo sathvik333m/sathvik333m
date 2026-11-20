@@ -1,16 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Sathvik</h1>
-<h3 align="center">Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast</h3>
+
+<h3 align="center">
+  Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-hanuma-sathvik-7b2469347">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sathvik333m">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/sathvik333m/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -24,92 +27,126 @@
 - 🔍 Enjoy building practical applications and exploring new technologies.
 - 🧠 Interested in problem solving, software engineering and intelligent systems.
 
-## 🛠️ Tech Stack
+---
 
-### Programming Languages
-<p>
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### Frontend Development
-<p>
+### 🌐 Frontend Development
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,ts" />
 </p>
 
-### Backend Development
-<p>
+### ⚙️ Backend Development
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### AI & Machine Learning
+### 🤖 Machine Learning & Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
 </p>
 
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib & Seaborn
+- NumPy, Pandas, Scikit-learn
+- Matplotlib, Seaborn
 - Data Preprocessing & Feature Engineering
 - Model Training & Evaluation
-- Gemini API & Groq API
+
+### 🧠 AI & Generative AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Technology-555555?style=for-the-badge"/>
+</p>
+
+- AI API Integration
 - Retrieval-Augmented Generation (RAG)
+- Vector-Based Retrieval
+- AI-Powered Application Development
 
-### Database & Tools
+### 🗄️ Database & Development Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
 </p>
 
 - SQL
-- Lex & Yacc
 - REST APIs
+- Linux/Unix Command Line
+- Lex & Yacc
+
+---
 
 ## 💼 Experience
 
-**Machine Learning Intern | Geonixa**
-
-May 2026 – July 2026
+### Machine Learning Intern | Geonixa
+**May 2026 – July 2026**
 
 - Worked on machine learning models involving data preprocessing, training and evaluation.
-- Contributed to an AI-Powered Virtual Personal Finance Assistant.
-- Used Python and ML libraries for data analysis and predictive modeling.
+- Contributed to the development of an AI-Powered Virtual Personal Finance Assistant.
+- Utilized Python and machine learning libraries for data analysis and predictive modeling.
+
+---
 
 ## 🚀 Featured Projects
 
-### Career AI — AI Resume & Career Advisor
-- AI-powered career platform for resume analysis, ATS optimization, job matching, cover letters and mock interviews.
-- Integrated Gemini AI, RAG and vector-based retrieval.
-- **Technologies:** React, TypeScript, Node.js, Express, Gemini AI.
+### 1. Career AI — AI Resume & Career Advisor
 
-### HealthSakhi — AI Healthcare Assistance Platform
-- Developed an AI-powered healthcare assistant.
-- Integrated Groq API for real-time AI responses.
-- Implemented location-based healthcare discovery.
-- **Technologies:** React.js, Node.js, Groq API.
+- Built an AI-powered career platform supporting resume analysis, ATS optimization, job matching, cover letter generation and mock interviews.
+- Integrated Gemini AI, RAG and vector-based retrieval for context-aware recommendations.
+- Developed a full-stack application with document processing and AI-assisted resume generation.
 
-### Mini Compiler for Arithmetic Expressions
-- Implemented lexical and syntax analysis.
-- Built an Abstract Syntax Tree (AST).
-- Implemented semantic evaluation and assembly code generation.
-- **Technologies:** C, Lex, Yacc.
+**Tech Stack:** React, TypeScript, Node.js, Express.js, Gemini AI, RAG.
+
+### 2. HealthSakhi — AI Healthcare Assistance Platform
+
+- Developed an AI-powered platform for health-related queries.
+- Integrated Groq API for real-time AI assistance.
+- Implemented location-based healthcare search to find nearby hospitals and medical services.
+
+**Tech Stack:** React.js, Node.js, Groq API.
+
+### 3. Mini Compiler for Arithmetic Expressions
+
+- Designed and implemented a mini compiler for arithmetic expressions.
+- Built lexical and syntax analysis using Lex and Yacc.
+- Generated an Abstract Syntax Tree (AST).
+- Implemented semantic evaluation and x86-style assembly generation.
+
+**Tech Stack:** C, Lex, Yacc.
+
+---
 
 ## 🏆 Achievements
 
-- Top 5 (Rank #5) — RizeOS Hackathon.
-- Participated in 36-Hour National Level Hackathon — Brainovision.
-- Qualified Round 1 — Netrik National Level Hackathon, IIITDM Kurnool.
+- Secured Rank 5 (Top 5) in RizeOS Hackathon.
+- Participated in the 36-Hour National Level Hackathon – Brainovision.
+- Qualified Round 1 of Netrik National Level Hackathon at IIITDM Kurnool.
 
-## 📈 GitHub Statistics
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sathvik333m&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik333m&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sathvik333m&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik333m&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Building, learning and exploring technology.</i>
+  <i>Always learning, building and exploring new technologies.</i>
 </p>
