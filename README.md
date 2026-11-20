@@ -91,7 +91,6 @@ May 2026 – July 2026
 ## 🏆 Achievements
 
 - 🥇 Secured Rank 5 (Top 5) in RizeOS Hackathon.
-- 💡 Solved 300+ problems on LeetCode.
 - Participated in the 36-Hour National Level Brainovision Hackathon.
 - Qualified Round 1 of Netrik National Level Hackathon at IIITDM Kurnool.
 
